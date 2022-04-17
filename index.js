@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { loadWords } = require('./loadWords');
 const { updateRules, selectWords, isValidWord } = require('./solver');
 const { guess } = require('./wordle');
