@@ -1,0 +1,21 @@
+{
+  "name": "wordle_solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "19.0.4",
+    "fast-csv": "4.3.6",
+    "mysql2": "2.3.3"
+  },
+  "devDependencies": {
+    "ava": "1.4.1",
+    "eslint": "^8.13.0",
+    "esm": "^3.2.25"
+  }
+}
